@@ -2,8 +2,8 @@
 
 Contact me:
 
-<a href="https://www.linkedin.com/in/oskars-filipovs/" target=”_blank”><img height="30" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/Linkedin.svg"></a>
-<a href="mailto:oskars.filipovs@gmail.com"><img height="30" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg"></a>
+<a href="https://www.linkedin.com/in/oskars-filipovs/" target=”_blank”><img height="40" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/Linkedin.svg"></a>
+<a href="mailto:oskars.filipovs@gmail.com"><img height="40" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg"></a>
 
 
 ## About me 
@@ -12,6 +12,9 @@ I am a web developer, currently working at CODELEX. I enjoy solving challenges t
 
 ## Tech stack
 
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,javascript,vuejs,vscode,git,docker" />
+</p>
 
 
 <!--
